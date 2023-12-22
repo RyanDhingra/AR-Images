@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ar-images/static/js/main.f4672eb7.js",
-    "index.html": "/ar-images/index.html",
-    "main.f4672eb7.js.map": "/ar-images/static/js/main.f4672eb7.js.map"
+    "main.js": "/AR-images/static/js/main.f4672eb7.js",
+    "index.html": "/AR-images/index.html",
+    "main.f4672eb7.js.map": "/AR-images/static/js/main.f4672eb7.js.map"
   },
   "entrypoints": [
     "static/js/main.f4672eb7.js"
