@@ -12,7 +12,7 @@ const ImageGallery = () => {
     const fullUrl = new URL(relativeUrl, window.location.origin).toString();
     navigator.clipboard
       .writeText(fullUrl)
-      .then(() => alert('Copied full image URL!'))
+      .then(() => console.log('Copied full image URL!'))
       .catch((err) => console.error('Copy failed', err));
   };
 
